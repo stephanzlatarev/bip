@@ -10,3 +10,5 @@ A bip code is a mark in the shape of a location pin with a qr-code inside:
    \  /
     \/
 ```
+
+Bip codes can be used only with my explicit permission.
